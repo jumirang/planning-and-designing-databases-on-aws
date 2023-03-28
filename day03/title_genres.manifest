@@ -1,0 +1,7 @@
+{
+  "entries": [
+    {"url":"s3://labstack-57c98000-c71e-4cdd-aedb-e4-labdatabucket-1i2dnkr0m95fq/title-genres/split-with-gzip/tg_aa.gz", "mandatory":true},
+    {"url":"s3://labstack-57c98000-c71e-4cdd-aedb-e4-labdatabucket-1i2dnkr0m95fq/title-genres/split-with-gzip/tg_ab.gz", "mandatory":true},
+    {"url":"s3://labstack-57c98000-c71e-4cdd-aedb-e4-labdatabucket-1i2dnkr0m95fq/title-genres/split-with-gzip/tg_ac.gz", "mandatory":true}
+  ]
+}
